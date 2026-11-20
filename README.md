@@ -10,7 +10,7 @@ Carte et mise en page : Emily-Jane Lelong.
 
 > À COMPLÉTER : territoire cartographié et image de la carte
 
-![Carte](maps/01_changements_pratique.png)
+![Carte](emilyllg\emilyllg-carto_evolution_pratique_eclairage_cerema\evo_eclairage (1).png)
 
 ## Les données utilisées
 
