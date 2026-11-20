@@ -1,5 +1,3 @@
-# emilyllg-carto_evolution_pratique_eclairage_cerema
-
 # Éclairage nocturne : changements de pratique par commune
 
 Cartographie réalisée sous QGIS à partir de données du Cerema sur l'éclairage public nocturne en France, de 2014 à 2025.
