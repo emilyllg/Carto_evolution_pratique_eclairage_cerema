@@ -30,10 +30,5 @@ Les types de changement :
 - X : aucun changement détecté
 - HT : Hors tâche lumineuse
 
-## Sources
-
-- Jeu de données : [Cartographie nationale des pratiques d'éclairage nocturne](https://ecologie.data.gouv.fr/datasets/cartographie-nationale-des-pratiques-declairage-nocturne) (Licence Ouverte 2.0)
-- Rapport technique (PDF) : téléchargeable depuis la même page, sous le titre « Développement d'un outil de détection de l'extinction nocturne par données satellites VIIRS »
-
 Source des données : Cerema (Pôle satellite), DarkSkyLab, OFB.
 Carte et mise en page : Emily-Jane Lelong.
