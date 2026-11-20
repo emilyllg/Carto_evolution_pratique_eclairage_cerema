@@ -9,7 +9,7 @@ Source des données : Cerema (Pôle satellite), DarkSkyLab, OFB.
 Carte et mise en page : Emily-Jane Lelong.
 
 
-![Carte](evol_eclairage_comp.png)
+![Carte](evol_eclairage_f.png)
 
 ## Les données utilisées
 
