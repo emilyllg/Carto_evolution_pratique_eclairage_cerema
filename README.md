@@ -18,7 +18,7 @@ Pour chaque commune, le jeu de données donne :
 
 | Donnée | Valeurs | Unité |
 |---|---|---|
-| Luminosité mesurée depuis l'espace, chaque mois de 2014 à 2025 | un nombre par mois | nW·cm⁻²·sr⁻¹ (plus la valeur est haute, plus la commune émet de lumière vers le ciel) |
+| Luminosité mesurée depuis l'espace, chaque mois de 2014 à 2025 | valeur numérique | nW·cm⁻²·sr⁻¹ (plus la valeur est haute, plus la commune émet de lumière vers le ciel) |
 | Type de changement de pratique détecté | E, R, D, A, X, HT (voir ci-dessous) | sans unité |
 | Date du changement | année et mois | |
 | Population | nombre d'habitants | habitants |
@@ -29,13 +29,7 @@ Les types de changement :
 - D : extension de l'éclairage
 - A : extension de l'éclairage et/ou abandon d'une extinction
 - X : aucun changement détecté
-- HT : commune non étudiée (trop peu lumineuse pour être vue par satellite)
-
-## Ce que ressort des données
-
-D'après le rapport du Cerema, sur 22 773 communes analysées depuis 2014 : 12 539 extinctions totales, 4 031 extinctions partielles, 459 abandons d'extinction et 856 extensions. Les extinctions sont surtout le fait de petites et moyennes communes, et se sont fortement accélérées en 2022.
-
-À lire avec précaution : ce sont des détections probables faites par satellite, pas des confirmations.
+- HT : Hors tâche lumineuse
 
 ## Sources
 
