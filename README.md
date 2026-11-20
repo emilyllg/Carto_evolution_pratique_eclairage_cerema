@@ -8,9 +8,8 @@ Cartographie réalisée sous QGIS à partir de données du Cerema sur l'éclaira
 Source des données : Cerema (Pôle satellite), DarkSkyLab, OFB.
 Carte et mise en page : Emily-Jane Lelong.
 
-> À COMPLÉTER : territoire cartographié et image de la carte
 
-![Carte](emilyllg\emilyllg-carto_evolution_pratique_eclairage_cerema\evo_eclairage (1).png)
+![Carte](emilyllg\emilyllg-carto_evolution_pratique_eclairage_cerema/maps/evol_eclairage.png)
 
 ## Les données utilisées
 
